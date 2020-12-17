@@ -1,4 +1,4 @@
-from struct import TreeNode
+from common_struct import TreeNode
 from typing import List
 
 class Solution1(object):

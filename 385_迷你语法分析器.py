@@ -1,4 +1,4 @@
-from struct import NestedInteger
+from common_struct import NestedInteger
 
 class Solution:
     def deserialize(self, s: str) -> NestedInteger:

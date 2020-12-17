@@ -1,5 +1,5 @@
 from typing import List
-from struct import TreeNode
+from common_struct import TreeNode
 
 class Solution1:
     # def inorderTraversal(self, root: TreeNode) -> List[int]:
